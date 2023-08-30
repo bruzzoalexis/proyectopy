@@ -1,0 +1,73 @@
+body {
+    background-color: bisque;
+    background-image: url(./imagenes/HD-wallpaper-nubes-aesthetic-estrellas-fondo-de-pantalla-luna-noche-sky.jpg);
+    background-size: cover
+}
+h1{
+    color: rgb(177, 157, 157);
+    text-align: center;
+    
+}
+h2{
+    color:rgb(128, 93, 93); 
+    
+}
+.titulo1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+
+}
+
+
+
+.titulo3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 300;
+    font-style: normal;
+    color: rgb(199, 199, 172);
+}
+.subtitulo{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(100, 61, 61);
+}
+.nombre1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200;
+    color: brown;
+}
+
+.listas {
+    list-style-type: none;
+    background-color: rgb(226, 148, 31);
+    display: flex;   
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+nav {
+    margin-top: 3em;
+    background-image: url();
+}
+a {
+    
+    text-decoration: none;
+    height: 2rem;
+    width: 3rem;
+    text-align: center;
+    
+
+}
+li {
+    background-color: rgb(214, 123, 12);
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+.clase {
+    border-radius: 3px solid black;
+}
+.imagen {
+    background-image: url(./WhatsApp\ Image\ 2023-08-30\ at\ 5.15.49\ PM.jpeg);
+    background-size: contain;
+
+}
